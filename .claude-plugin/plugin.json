@@ -1,0 +1,11 @@
+{
+  "name": "taos",
+  "displayName": "TAOS",
+  "version": "1.0.0",
+  "description": "Talent Augmentation OS (TAOS): personalised AI coaching that makes you better at your work, not dependent on AI. This is a connector only. It links your AI client to the hosted TAOS service; all coaching logic runs server-side.",
+  "author": { "name": "Angelo Leone", "url": "https://taoshq.com" },
+  "homepage": "https://taoshq.com",
+  "repository": "https://github.com/angelo-leone/taos-connector",
+  "license": "MIT",
+  "keywords": ["talent","augmentation","coaching","skills","assessment","de-skilling","professional-development","ai-augmentation"]
+}

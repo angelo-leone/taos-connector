@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "taos": {
+      "type": "http",
+      "url": "https://taoshq.com/mcp"
+    }
+  }
+}
