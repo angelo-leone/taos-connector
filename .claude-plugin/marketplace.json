@@ -1,6 +1,9 @@
 {
   "name": "taos",
-  "owner": { "name": "Angelo Leone", "url": "https://taoshq.com" },
+  "owner": {
+    "name": "Angelo Leone",
+    "url": "https://taoshq.com"
+  },
   "metadata": {
     "description": "Talent Augmentation OS (TAOS): personalised AI augmentation that makes you better at your work, not dependent on AI.",
     "version": "1.0.0"
@@ -9,12 +12,20 @@
     {
       "name": "taos",
       "source": "./",
-      "description": "Connects your AI client to the hosted TAOS coaching service over MCP. Assess your expertise, get coaching where you are growing, protect skills from atrophy. Connector only; all logic runs server-side.",
+      "description": "TAOS coaching for Claude and any MCP client. Assess your expertise, get coached in your growth areas, protect skills from atrophy, and switch to ship mode when you just need speed. Your profile and the coaching method run server-side.",
       "version": "1.0.0",
-      "author": { "name": "Angelo Leone" },
+      "author": {
+        "name": "Angelo Leone"
+      },
       "homepage": "https://taoshq.com",
       "license": "MIT",
-      "keywords": ["talent","augmentation","coaching","de-skilling","assessment"],
+      "keywords": [
+        "talent",
+        "augmentation",
+        "coaching",
+        "de-skilling",
+        "assessment"
+      ],
       "category": "productivity"
     }
   ]

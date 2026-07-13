@@ -2,7 +2,7 @@
 
 **[Talent Augmentation OS (TAOS)](https://taoshq.com)** is a personalised AI coaching layer for the AI you already use. It speeds you up where you are strong, coaches you where you are growing, and keeps the skills you care about from quietly atrophying under AI use.
 
-This repository is a **connector only**. It points your AI client at the hosted TAOS service. The assessment engine, the coaching layer, and your profile all live server-side. There is nothing to configure and nothing proprietary here.
+This repository holds the **thin skills and connector** that link your AI client to the hosted TAOS service. The assessment engine, the coaching method, and your profile all live server-side and are delivered over your authenticated connection. Nothing proprietary lives in this repo: the skills only orchestrate calls to the hosted tools.
 
 ## Install
 
