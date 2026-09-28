@@ -12,6 +12,8 @@
   "license": "MIT",
   "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://taoshq.com/privacy",
+  "supportUrl": "https://taoshq.com/contact",
+  "documentationUrl": "https://taoshq.com/#install",
   "keywords": [
     "talent",
     "augmentation",
