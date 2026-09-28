@@ -10,6 +10,8 @@
   "homepage": "https://taoshq.com",
   "repository": "https://github.com/angelo-leone/taos-connector",
   "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://taoshq.com/privacy",
   "keywords": [
     "talent",
     "augmentation",
