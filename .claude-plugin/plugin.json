@@ -29,11 +29,14 @@
       "interface": {
         "displayName": "TAOS",
         "shortDescription": "Coaching that keeps your skills growing while AI does the work",
-        "longDescription": "TAOS is a coaching layer that runs alongside ChatGPT, Claude, and Cursor. It keeps a short profile of what you already know and what you are still learning, and decides per task whether to just do the work or ask for your approach first.\n\nA five minute check builds your profile. After that: fast on the parts of your job you already know well, and coached on the parts you are growing into, so you keep the judgement that AI would otherwise do for you.\n\nWhat TAOS can do from the chat:\n- Run or resume your expertise assessment\n- Coach you through a task, calibrated to your own profile\n- Switch to ship mode when you just need speed, no coaching friction\n- Update your profile as your skills and goals change, always with your confirmation first\n\nYour profile is a portable markdown file that follows you across tools. You sign in once with Google.",
+        "longDescription": "TAOS is a coaching layer that runs alongside ChatGPT, Claude, and Cursor. It keeps a short profile of what you already know and what you are still learning, and decides per task whether to just do the work or ask for your approach first.\n\nA five minute check builds your profile. After that: fast on the parts of your job you already know well, and coached on the parts you are growing into, so you keep the judgement that AI would otherwise do for you.\n\nWhat TAOS can do from the chat:\n- Run or resume your expertise assessment\n- Coach you through a task, calibrated to your own profile\n- Switch to ship mode when you just need speed, no coaching friction\n- Update your profile as your skills and goals change, always with your confirmation first\n\nYour profile is a portable markdown file that follows you across tools. You sign in once, with Google or an emailed code.",
         "developerName": "Angelo Leone",
         "category": "Productivity",
         "capabilities": [
-          "Write"
+          "Run your skills assessment",
+          "Read your TAOS profile",
+          "Coach you on tasks",
+          "Update your profile with your confirmation"
         ],
         "websiteURL": "https://taoshq.com",
         "privacyPolicyURL": "https://taoshq.com/privacy",
