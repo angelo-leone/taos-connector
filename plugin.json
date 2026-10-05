@@ -55,7 +55,7 @@
               "description": "First-time user, no profile yet",
               "prompt": "Help me plan a migration from REST to GraphQL for our API.",
               "tools_triggered": "talent_get_coaching_layer, talent_list_profiles",
-              "expected_behavior": "Tells the user they have no profile yet and offers the 5-minute quick assessment or the full 15-minute one before coaching on the task. If they decline, it helps with the task and says the coaching will be generic until they have a profile."
+              "expected_behavior": "Says it will coach the user but needs to build their profile first, suggests the 15-minute assessment (or the 5-minute one if they are short on time), and does not answer or plan the migration yet. If the user still declines, it asks for their own first thinking and coaches from that."
             },
             {
               "description": "Run the assessment",
