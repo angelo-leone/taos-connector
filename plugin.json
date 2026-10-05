@@ -55,7 +55,7 @@
               "description": "First-time user, no profile yet",
               "prompt": "Help me plan a migration from REST to GraphQL for our API.",
               "tools_triggered": "talent_get_coaching_layer, talent_list_profiles",
-              "expected_behavior": "Reports no profile exists yet, offers to run the assessment, and does not attempt to coach or answer the task until the user agrees."
+              "expected_behavior": "Tells the user they have no profile yet and offers the 5-minute quick assessment or the full 15-minute one before coaching on the task. If they decline, it helps with the task and says the coaching will be generic until they have a profile."
             },
             {
               "description": "Run the assessment",
