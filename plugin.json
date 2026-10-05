@@ -101,7 +101,8 @@
           ]
         },
         "commerce": false,
-        "commerce_description": "TAOS is a paid subscription (a short free trial, then a monthly or annual plan). Billing happens entirely on taoshq.com; no payment is requested or processed inside ChatGPT."
+        "commerce_description": "TAOS is a paid subscription (a short free trial, then a monthly or annual plan). Billing happens entirely on taoshq.com; no payment is requested or processed inside ChatGPT.",
+        "demo_recording_url": "https://youtu.be/MHhPCYAqwxs"
       },
       "publication": {
         "release_notes": "First release: assessment, calibrated coaching per task, ship mode, and profile updates, all through the hosted TAOS MCP server."
