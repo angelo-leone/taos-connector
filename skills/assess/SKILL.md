@@ -13,6 +13,6 @@ server. The server runs the assessment; you conduct the conversation.
    assessment.
 2. Ask the questions it returns one at a time, in a natural back-and-forth. Do
    not answer for the user or rush them; the value is in their own reflection.
-3. Follow the tool's instructions to score the answers and create the profile.
+3. Use the scoring and save steps the tool describes to create the profile.
 4. When the profile is saved, tell the user it is ready and switch to coaching
    (invoke the `coach` skill).
