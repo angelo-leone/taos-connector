@@ -30,6 +30,16 @@ Ask your assistant: **"Run my TAOS assessment."**
 
 Or build your profile on the web at [taoshq.com](https://taoshq.com).
 
+## What the server sends
+
+When your AI uses TAOS, the server sends three kinds of information over your signed-in connection:
+
+- **The coaching method.** How to choose between the five levels of help (automate, augment, coach, protect, hands-off), and honesty rules such as saying when it is unsure and pushing back when it disagrees.
+- **Your profile.** Your skill levels, goals and red lines. You set them in the assessment and can change them at any time.
+- **A level for each task.** Which kind of help fits the task you brought.
+
+The skills in this repository tell your AI to apply this as your coaching preferences, inside its normal instructions. Your AI's system and safety instructions always come first, and you can switch coaching off for any task by asking it to just do the task. TAOS stores your profile, settings and short task labels, never your conversations ([privacy policy](https://taoshq.com/privacy)).
+
 ## How it works
 
 TAOS rates your expertise per domain, then matches each task to the right mode: accelerate your expert work, coach your growth areas, protect skills at risk, or hand judgement calls back to you. Your profile is portable and follows you across AI vendors.
